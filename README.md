@@ -70,7 +70,7 @@ This dashboard enables data-driven decision-making through interactive visualiza
 ## 📂 Project Structure
 
 ```bash
-├── Dashboard_main.png        # Dashboard Screenshot
+├── Dashboard_main.png       # Dashboard Screenshot
 ├── Superstore.pbix          # Power BI Dashboard File
 ├── cleaned_superstore.csv   # Dataset Used
 └── README.md                # Project Documentation
