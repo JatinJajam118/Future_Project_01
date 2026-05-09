@@ -72,7 +72,7 @@ This dashboard enables data-driven decision-making through interactive visualiza
 ```bash
 ├── Dashboard_main.png        # Dashboard Screenshot
 ├── Superstore.pbix          # Power BI Dashboard File
-├── dataset.csv              # Dataset Used
+├── cleaned_superstore.csv   # Dataset Used
 └── README.md                # Project Documentation
 ```
 
@@ -126,6 +126,3 @@ If you like this project, feel free to ⭐ the repository and connect with me!
 
 ---
 
-## 📜 License
-
-This project is for educational and portfolio purposes.
